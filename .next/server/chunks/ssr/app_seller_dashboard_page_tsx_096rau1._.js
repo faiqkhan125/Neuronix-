@@ -1,0 +1,3 @@
+module.exports=[21658,a=>{"use strict";var b=a.i(87924),c=a.i(72131),d=a.i(50944);a.s(["default",0,function(){let a=(0,d.useRouter)();return(0,c.useEffect)(()=>{a.push("/dashboard/seller")},[a]),(0,b.jsx)("div",{className:"min-h-screen flex items-center justify-center bg-dark-bg",children:(0,b.jsx)("div",{className:"w-12 h-12 border-4 border-neon-blue border-t-transparent rounded-full animate-spin"})})}])}];
+
+//# sourceMappingURL=app_seller_dashboard_page_tsx_096rau1._.js.map
